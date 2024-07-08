@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yboukhiri&label=Profile%20views&color=0e75b6&style=flat" alt="yboukhiri" /> </p>
 
-- 🔭 I’m currently working on [Salni APP](https://github.com/yboukhiri/salni-app-backend)
-
 - 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [UI of Salni APP](https://github.com/yboukhiri/salni-ui)
 
 - 📫 How to reach me **yboukhiri@gmail.com**
 
