@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yassine BOUKHIRI</h1>
-<h3 align="center">Passionate junior software engineer building robust and scalable solutions</h3>
+<h3 align="center">Passionate software engineer building robust and scalable solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95275ce6a0cf61fd64640b5636e746addc7b756785c&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yboukhiri&label=Profile%20views&color=0e75b6&style=flat" alt="yboukhiri" /> </p>
