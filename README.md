@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yboukhiri&label=Profile%20views&color=0e75b6&style=flat" alt="yboukhiri" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **yboukhiri@gmail.com**
 
